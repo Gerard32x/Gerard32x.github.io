@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz');
 body{
-    background-image:(https://yt3.ggpht.com/-osp9sQ-_FPI/AAAAAAAAAAI/AAAAAAAAAAA/cT6zVAR80XQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg);
+    background-image:url(https://yt3.ggpht.com/-osp9sQ-_FPI/AAAAAAAAAAI/AAAAAAAAAAA/cT6zVAR80XQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg); 
 }
 h1 {
     font-family: 'Yanone Kaffeesatz', sans-serif; 
