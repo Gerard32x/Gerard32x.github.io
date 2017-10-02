@@ -1,8 +1,36 @@
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz');
+.header img {
+    float: center;
+    width: 150px;
+    height: 150px;
+    background: #555;
+}
+.header {
+    text-align: center;
+}
 body{
-    background-image:url(https://yt3.ggpht.com/-osp9sQ-_FPI/AAAAAAAAAAI/AAAAAAAAAAA/cT6zVAR80XQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg); 
+    background-image:url(http://news.unl.edu/sites/default/files/Microsoft-PESTEL-Analysis.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
 }
 h1 {
     font-family: 'Yanone Kaffeesatz', sans-serif; 
     color: blue;
+    text-align: center;
 }
+p {
+    text-align: center;
+  font-size: 15pt;
+    color: #FF1C00;
+    border-style: double;
+}
+.footer img {
+    float: center;
+    width: 200px;
+    height: 200px;
+    background: #555;
+}
+.footer {
+    text-align: center;
+}
+
